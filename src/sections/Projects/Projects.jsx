@@ -24,7 +24,7 @@ function Projects() {
         />
         <ProjectCard
           src={kamwala}
-          link="https://github.com/Ade-mir/company-landing-page-2"
+          link="https://github.com/sharma2609/DESKTOP-VOICE-ASSISTANT"
           h3="KamWalaa"
           p="Desktop Voice Assistant"
         />
