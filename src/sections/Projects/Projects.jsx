@@ -18,7 +18,7 @@ function Projects() {
         />
         <ProjectCard
           src={checkMate}
-          link="https://github.com/sharma2609/TODO-List"
+          link="https://github.com/sharma2609/Check-Mate"
           h3="Check - Mate"
           p="ToDo List"
         />
